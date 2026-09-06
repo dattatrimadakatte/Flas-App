@@ -72,8 +72,4 @@ This project demonstrates backend development, database integration, routing, fo
 * Task priorities
 * User-specific Todo lists
 
-## 👨‍💻 Developer
 
-**Dattatri Madakatte**
-
-This project was developed for learning and portfolio purposes.
